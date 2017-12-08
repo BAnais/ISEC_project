@@ -1,0 +1,2 @@
+EmployeeID,	Enabled,	ChangePasswordAtLogon,	Type,	Title,	Name,	Surname,	EmailAddress,			OfficePhone,	MobilePhone,	HomePhone,	AccountPassword,	Manager,	Office,	Department,	Division,	City,		State,	Country,	Company,	Organization,	Path,	Server
+1,		True,		True,			1,	Mr.,	Yvar,	de Goffau,	yvar.degoffau@viacesi.fr,	05********,	06********,	1*****,		tochange,		Selma,		14,	Informatique,	Logiciel,	Toulouse,	31,	France,		viacesi,	cesi,		./,	./,
