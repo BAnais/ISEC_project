@@ -58,7 +58,7 @@ Supervision
 
 ## Réalisation :pencil2:
 
-### Différents services parametres
+### Parametrage des différents services
 
 ![Picture](img/Serveurs.png)
 
@@ -79,8 +79,6 @@ Supervision
 ![Picture](img/GPO.png)
 
 
-
-
 ### Serveur Nagios
 
 ![Picture](img/nagios1.PNG)
@@ -90,7 +88,7 @@ Supervision
 ![Picture](img/nagios2.PNG)
 
 
-## Bilan
+## Bilan :heavy_check_mark:
 
 Le projet ISEC s'est déroulé dans sa globalité en accord avec les diagrammes prévisionnels et sans grande difficulté en particulier. Il est cependant à noter le dépassement dans le temps de certaines tâches, ce dernier justifié par quelques problèmes mineurs mais bien présents de compatibilité machine ou de mauvais paramétrage.
 Pour ce qui est du groupe en général, bonne symbiose et écoute globale sont à noter. 
