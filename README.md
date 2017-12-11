@@ -58,7 +58,7 @@ Supervision
 
 ## Réalisation :pencil2:
 
-### Différents services parametrés
+### Différents services parametres
 
 ![Picture](img/Serveurs.png)
 
@@ -66,17 +66,28 @@ Supervision
 
 ![Picture](img/Padd.png)
 
-### IP du routeur et du Service DNS
+### IP du routeur et du service DNS
 
 ![Picture](img/IProuterDNS.png)
 
+### Parametrage des unités d'organisation
+
+![Picture](img/OU.png)
+
+### Parametrage des GPO
+
+![Picture](img/GPO.png)
+
+
+
+
 ### Serveur Nagios
 
-![Picture](img/nagios1.png)
+![Picture](img/nagios1.PNG)
 
 ### Interface graphique de nagios avec supervision des services
 
-![Picture](img/nagios2.png)
+![Picture](img/nagios2.PNG)
 
 
 ## Bilan
