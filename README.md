@@ -55,7 +55,26 @@ Supervision
 ![Picture](img/PERT_ISEC.jpg)
 #### GANTT
 ![Picture](img/Gantt.jpg)
+
 ## Réalisation :pencil2:
+
+### Différents services parametrés
+
+![Picture](img/Serveurs.png)
+
+### Pool d'adresses
+
+![Picture](img/Padd.png)
+
+### IP du routeur et du Service DNS
+
+![Picture](img/IProuterDNS.png)
+
+
+## Bilan
+
+Le projet ISEC s'est déroulé dans sa globalité en accord avec les diagrammes prévisionnels et sans grande difficulté en particulier. Il est cependant à noter le dépassement dans le temps de certaines tâches, ce dernier justifié par quelques problèmes mineurs mais bien présents de compatibilité machine ou de mauvais paramétrage.
+Pour ce qui est du groupe en général, bonne symbiose et écoute globale sont à noter. 
 
 
 
