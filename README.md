@@ -59,7 +59,7 @@ Ci-contre le lien vers le Trello du projet :arrow_forward:
 
 ## Réalisation :pencil2:
 
-### Parametrage des différents services
+### Paramétrage des différents services
 
 ![Picture](img/Serveurs.png)
 
@@ -71,11 +71,11 @@ Ci-contre le lien vers le Trello du projet :arrow_forward:
 
 ![Picture](img/IProuterDNS.png)
 
-### Parametrage des unités d'organisation
+### Paramétrage des unités d'organisation
 
 ![Picture](img/OU.png)
 
-### Parametrage des GPO
+### Paramétrage des GPO
 
 ![Picture](img/GPO.png)
 
