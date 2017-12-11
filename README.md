@@ -70,6 +70,14 @@ Supervision
 
 ![Picture](img/IProuterDNS.png)
 
+### Serveur Nagios
+
+![Picture](img/nagios1.png)
+
+### Interface graphique de nagios avec supervision des services
+
+![Picture](img/nagios2.png)
+
 
 ## Bilan
 
