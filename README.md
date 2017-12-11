@@ -53,7 +53,7 @@ Supervision
 #### PERT
 ![Picture](img/PERT_ISEC.jpg)
 #### GANTT
-
+![Picture](img/Gantt.jpg)
 ## Réalisation :pencil2:
 
 
