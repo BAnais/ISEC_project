@@ -46,7 +46,7 @@ Supervision
 [Trello](https://trello.com/b/T8vvbAFE/isecproject)
 
 #### OBS
-![Picture](img/OBS_isec.jpg)
+![Picture](img/OBS_isec.png)
 #### PBS
 ![Picture](img/PBS_ISEC-1.jpg)
 #### WBS
